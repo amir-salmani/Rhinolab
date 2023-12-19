@@ -1,3 +1,6 @@
+### Jump to Important Stuff
+
+
 # Welcome to the RhinoLab GitHub Repository
 
 This repository serves as a central hub for all things related to security operation (SOC), DevOps, DevSecOps, machine learning operations (MLOps), homelab setup, and system administration (SysOps). We believe in sharing knowledge and empowering others to build secure, scalable, and reliable infrastructure.
